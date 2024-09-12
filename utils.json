@@ -1,0 +1,17 @@
+{
+    "name": "rest-email",
+    "deps": {
+        "rest-ObjectError": {
+            "owner": "aramtech",
+            "repo": "rest-ObjectError",
+            "update_policy": "major",
+            "version": "0.1.1"
+        }
+    },
+    "public_repo": false,
+    "private": false,
+    "owner": "aramtech",
+    "hash": "Vw7OH79CkbtDTxlqTcmvsQv2aCj5W18hgfLPtIBwC5o",
+    "version": "0.2.2",
+    "description": ""
+}
